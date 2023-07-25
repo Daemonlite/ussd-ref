@@ -1,0 +1,4 @@
+about to send ussd
+{'reference': 'transfered money to 271808617', 'nw': 'TIG', 'amount': '1.0', 'app_trans_id': 'cefab18c-1ca9-4b0f-abfc-fd44a8427f83', 'trans_type': 'DR', 'account_number': '2050000000101', 'channel': 'USSD', 'customer_number': '271808617'}  ussd sentussd  is supposed to popup sentabout to send ussd
+{'amount': '1.0', 'nw': 'TIG', 'customer_number': '271808617', 'trans_type': 'DR', 'app_trans_id': '12e773b2-7f8b-4638-8797-de9e0bef6478', 'channel': 'USSD', 'account_number': '2050000000101', 'reference': 'transferred money from 271808617'}  ussd sentussd  is supposed to popup sentabout to send ussd
+{'amount': '1.0', 'nw': 'TIG', 'customer_number': '271808617', 'trans_type': 'DR', 'app_trans_id': 'fc2d1b8f-da27-4353-b75e-70c0b00abaf9', 'channel': 'USSD', 'account_number': '2050000000101', 'reference': 'transferred money from 271808617'}  ussd sentussd  is supposed to popup sent

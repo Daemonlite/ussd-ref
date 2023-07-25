@@ -1,0 +1,15 @@
+*pyc
+__pycache__
+*~
+venv
+db.sqlite3
+.DS_Store
+.idea
+ngrok.exe
+mmmmm.py
+tuesday.py
+checker.py
+ussdd/timeieme.py
+ussdenv/
+ussd/migrations
+django.log
